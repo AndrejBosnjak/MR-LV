@@ -1,0 +1,7 @@
+5_Dimensions&0.05_mutationProb&16_numOfElites&0.1_maxMutatedValue
+Values At the end are: 
+[-0. -0. -0.  0.  0.], fitness value= 1.7719247724201637e-05
+[ 0.    0.    0.   -0.99  0.  ], fitness value= 0.9949797776561713
+[-1.    0.   -0.   -0.99  0.  ], fitness value= 1.9899595091897897
+[ 0.    0.99 -0.    0.99 -1.  ], fitness value= 2.9848920074512098
+[ 0.    0.99  0.99 -0.    1.  ], fitness value= 2.985126417150088
