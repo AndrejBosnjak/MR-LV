@@ -1,0 +1,4 @@
+Border patrol is True, 50 Population Size, 5 Number of Elites & 0.1 Mutation Rate
+AvgBestPath=2108.2
+BestIndividual=[13, 10, 8, 15, 1, 0, 9, 6, 12, 17, 3, 2, 5, 4, 11, 16, 19, 20, 14, 18, 7]
+Best paths=2162,1973,2102,1973,2328
