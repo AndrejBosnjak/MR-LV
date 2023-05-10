@@ -1,0 +1,7 @@
+5_Dimensions&0.37_InertiaVal&0.5_individualFactor&0.5_socialFactor
+Values At the end are: 
+[ 0.    0.96  0.01 -0.   -0.02], fitness value= 1.3597501101068108
+[ 0.99 -1.    0.    0.    0.  ], fitness value= 1.9946065766909218
+[ 0.   -0.98  0.   -0.   -1.01], fitness value= 2.1068764879030084
+[-0.   -0.99  0.    0.    1.99], fitness value= 4.974801702583916
+[ 0.   -0.   -1.   -1.98 -0.  ], fitness value= 4.981842938236843
