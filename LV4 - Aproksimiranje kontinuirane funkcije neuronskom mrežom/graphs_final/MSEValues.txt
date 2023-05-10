@@ -1,0 +1,39 @@
+Best values:
+30nSamples_15nNeurons_3nLayers_tanh_lbfgs: 4.126555926623704e-06
+60nSamples_15nNeurons_1nLayers_tanh_lbfgs: 1.1243666532245998e-05
+60nSamples_15nNeurons_1nLayers_logistic_lbfgs: 1.7957262139252926e-05
+30nSamples_10nNeurons_2nLayers_logistic_lbfgs: 2.1293351320919003e-05
+30nSamples_10nNeurons_3nLayers_tanh_lbfgs: 2.7852561616036402e-05
+30nSamples_10nNeurons_2nLayers_tanh_lbfgs: 2.9989172542411057e-05
+60nSamples_10nNeurons_1nLayers_tanh_lbfgs: 3.1000136449504e-05
+30nSamples_10nNeurons_1nLayers_logistic_lbfgs: 3.9510798227121086e-05
+60nSamples_10nNeurons_3nLayers_tanh_lbfgs: 4.2276431160751585e-05
+60nSamples_15nNeurons_2nLayers_tanh_lbfgs: 5.190878273207971e-05
+
+
+Median values:
+60nSamples_10nNeurons_1nLayers_tanh_sgd: 1.6647599
+60nSamples_5nNeurons_1nLayers_tanh_adam: 1.675884
+60nSamples_5nNeurons_2nLayers_relu_adam: 1.6874001
+60nSamples_10nNeurons_1nLayers_logistic_adam: 1.7972492
+30nSamples_5nNeurons_1nLayers_relu_adam: 1.8277375
+30nSamples_5nNeurons_2nLayers_logistic_lbfgs: 1.8332870593252952
+30nSamples_5nNeurons_3nLayers_logistic_lbfgs: 1.8462145476390803
+60nSamples_15nNeurons_1nLayers_relu_adam: 1.8543679
+10nSamples_15nNeurons_1nLayers_relu_adam: 1.8781714
+30nSamples_5nNeurons_3nLayers_tanh_adam: 1.9045182
+
+
+Worst values:
+30nSamples_5nNeurons_2nLayers_identity_sgd: 2.6919506
+30nSamples_10nNeurons_3nLayers_identity_adam: 2.7329721
+60nSamples_5nNeurons_2nLayers_identity_sgd: 2.746475
+60nSamples_5nNeurons_1nLayers_identity_sgd: 2.7648172
+30nSamples_5nNeurons_3nLayers_identity_sgd: 2.7669594
+30nSamples_15nNeurons_1nLayers_relu_sgd: 2.9112875
+10nSamples_15nNeurons_3nLayers_identity_adam: 2.9241645
+30nSamples_15nNeurons_3nLayers_identity_adam: 2.9624531
+30nSamples_15nNeurons_2nLayers_identity_adam: 2.984965
+10nSamples_10nNeurons_3nLayers_identity_adam: 3.0418563
+Best values:
+5nNeurons_3nLayers_logistic_sgd: 0.3333333333333333
