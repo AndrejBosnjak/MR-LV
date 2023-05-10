@@ -1,0 +1,5 @@
+12 Queens, 50 Population Size, 16 Number of Elites, 0.04 Mutation Rate & permutation is True stats: 
+lowestGenCount=11
+AvgGenCount=2197.4
+number of runs=5
+Generations found:11,49,118,1724,9085
